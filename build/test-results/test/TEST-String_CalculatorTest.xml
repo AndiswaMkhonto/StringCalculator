@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="String_CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-30T07:36:29" hostname="DESKTOP-I0T8K0P" time="0.004">
+<testsuite name="String_CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-30T14:12:49" hostname="DESKTOP-I0T8K0P" time="0.01">
   <properties/>
-  <testcase name="testForaddition" classname="String_CalculatorTest" time="0.004"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="testForaddition" classname="String_CalculatorTest" time="0.01"/>
+  <system-out><![CDATA[0
+9
+2
+2
+1
+1
+10
+10
+6
+6
+3
+3
+3
+3
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

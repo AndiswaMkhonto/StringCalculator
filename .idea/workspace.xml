@@ -28,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.String_CalculatorTest.testForaddition">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="StringCalculatorProject.main" />
@@ -99,8 +99,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.String_CalculatorTest.testForaddition" />
-        <item itemvalue="Gradle.String_CalculatorTest.testForEmpty" />
         <item itemvalue="Gradle.String_CalculatorTest.name" />
+        <item itemvalue="Gradle.String_CalculatorTest.testForEmpty" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -119,22 +119,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1585553788540">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1585580033343">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585553788540" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1585553788540">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585580033343" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1585580033343">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585553788540" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1585553788540">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585580033343" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1585580033342">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585553788540" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1585553788540">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585580033342" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1585580033343">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585553788540" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585580033343" />
     <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1585385408409">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
